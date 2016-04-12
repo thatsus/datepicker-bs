@@ -1,0 +1,9 @@
+{
+    "name": "thatsus/datepicker-bs",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:thatsus/datepicker-bs.git"
+        }
+    ]
+}
